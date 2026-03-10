@@ -106,7 +106,7 @@ Solutions are optimized and interview-ready.
 
 Each folder is organized by **difficulty and topic**.
 
-## 🛠 SQL Dialects Used
+## SQL Dialects Used
 - MySQL
 - PostgreSQL
 
