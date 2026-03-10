@@ -1,4 +1,3 @@
-# jobaaj-learning-SQL-
 HackerRank SQL Challenges + DataLemur SQL Problems
 # SQL Interview Preparation – HackerRank & DataLemur
 
@@ -68,11 +67,11 @@ Number	Challenges	Solutions
 This repository contains my solutions to **SQL challenges** from  
 **HackerRank** and **DataLemur**, focused on **data analytics and interview preparation**.
 
-## 📌 Platforms Covered
+##  Platforms Covered
 - HackerRank SQL
 - DataLemur SQL Interview Questions
 
-## 🧠 Topics Included
+## Topics Included
 - SELECT & WHERE
 - Aggregations
 - Joins
@@ -82,7 +81,7 @@ This repository contains my solutions to **SQL challenges** from
 - Date & Time Functions
 - Ranking & Analytics
 
-## 📂 Repository Structure
+##  Repository Structure
 
 # HackerRank SQL Solutions
 
@@ -111,18 +110,18 @@ Each folder is organized by **difficulty and topic**.
 - MySQL
 - PostgreSQL
 
-## 🎯 Purpose
+##  Purpose
 - Practice SQL interview questions
 - Strengthen data analytics fundamentals
 - Build a public SQL portfolio
 
-## 🚀 Author
+## Author
 **Sahil Lanjewar**  
 Aspiring Data Analyst  
 
-🔗 LinkedIn: https://www.linkedin.com/in/sahil-lanjewar-37a611258?utm_source=share_via&utm_content=profile&utm_medium=member_android
+LinkedIn: https://www.linkedin.com/in/sahil-lanjewar-37a611258?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
-⭐ If you find this repository useful, feel free to star it!
+ If you find this repository useful, feel free to star it!
 
