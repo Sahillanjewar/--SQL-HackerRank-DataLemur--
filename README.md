@@ -1,69 +1,31 @@
 HackerRank SQL Challenges + DataLemur SQL Problems
 # SQL Interview Preparation – HackerRank & DataLemur
 
-Project Overview
-This repository contains my SQL solutions to problems from multiple competitive and interview-focused platforms. The purpose of this repository is to demonstrate strong SQL fundamentals, analytical thinking, and hands-on query-writing practice across real-world business scenarios.
+Problem Statement: Analyze SQL practice solutions across multiple coding platforms to strengthen query-writing skills, improve analytical thinking, and demonstrate readiness for real-world data analyst interview scenarios.
 
-All queries are written with a focus on clarity, correctness, and performance, making them suitable for technical interviews and practical data analysis work.
+Steps taken:
 
-Platforms Covered
-The problems are sourced from the following industry-recognized platforms:
+Practiced SQL problems from multiple platforms including HackerRank, LeetCode, and DataLemur to build strong fundamentals.
 
-HackerRank – Core SQL fundamentals and logic building
-LeetCode – Interview-level SQL problems with real-world scenarios
-DataLemur – Advanced, business-focused SQL case questions
-Objective
-The key objectives of this repository are to:
+Solved queries covering joins, aggregations, subqueries, CTEs, and window functions to simulate real-world business problems.
 
-Strengthen SQL query-writing skills
-Practice real-world analytical SQL problems
-Prepare for data analyst and business analyst interviews
-Build confidence in solving complex data problems
-Topics Covered
-This repository includes SQL problems across multiple difficulty levels and concepts:
+Tools Used: SQL (MySQL / PostgreSQL), Online Coding Platforms.
 
-SELECT, WHERE, ORDER BY
-GROUP BY and HAVING
-JOINS (INNER, LEFT, RIGHT)
-Subqueries and CTEs
-Window Functions (ROW_NUMBER, RANK, LAG, LEAD)
-Aggregations and conditional logic
-Date and time functions
-Interview-style business problems
-Problem-Solving Approach
-Each solution follows a structured and professional approach:
+Key Insights & Conclusion:
+This repository demonstrates consistent SQL practice and the ability to solve problems across beginner to advanced levels. Problems from different platforms helped in understanding real-world business scenarios such as sales analysis, ranking, customer behavior analysis, and data aggregation. It strengthened skills in query optimization, logical thinking, and analytical problem-solving. By solving interview-style SQL questions regularly, the repository reflects strong preparation for Data Analyst and Business Analyst roles, showing the ability to translate business questions into accurate and efficient SQL queries.
 
-Carefully understand the business question
-Identify required tables, joins, and filters
-Apply aggregations or window functions when needed
-Write clean, readable, and optimized SQL
-Validate results with edge cases in mind
-The emphasis is on business logic clarity, not just query execution.
+Challenges Faced :
 
-Repository Structure
-SQL files are organized by platform and difficulty level
-Each file contains multiple solved problems
-Queries are written in a clean and readable format
-Suitable for revision and interview preparation
-Skills Demonstrated
-SQL Query Writing
-Data Analysis & Interpretation
-Logical Thinking
-Problem Decomposition
-Interview Readiness
-How This Repository Adds Value
-This repository shows:
+Some problems required complex joins and nested subqueries, making query logic difficult to structure initially.
 
-Consistent SQL practice across platforms
-Ability to solve beginner to advanced SQL problems
-Strong understanding of analytical SQL concepts
-Readiness for real-world data analyst roles
-It complements my data analysis and business analytics profile by showcasing hands-on technical depth.
+Optimizing queries for performance while maintaining readability required multiple iterations.
 
-Future Enhancements
-Add problem statements as comments
-Include query optimization notes
-Add result explanations for complex problems
-Expand into advanced analytics case studies
-Conclusion
-This repository reflects my disciplined approach to learning SQL through continuous practice. It demonstrates my ability to translate business questions into accurate and efficient SQL queries, a critical skill for data-driven roles.
+Understanding business-oriented SQL problems required analytical interpretation beyond basic query writing.
+
+Recommendations : Continuous SQL Skill Development
+
+Practice advanced SQL topics such as window functions, query optimization, and analytical case studies.
+
+Add problem statements and explanations in the repository to improve learning and documentation.
+
+Expand the repository with real-world datasets and business analytics scenarios to enhance practical data analysis skills.
