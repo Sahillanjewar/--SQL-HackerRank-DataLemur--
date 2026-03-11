@@ -30,5 +30,6 @@ Recommendations : Continuous SQL Skill Development
 •	Practice advanced SQL topics such as window functions, query optimization, and analytical case studies.
 
 •	Add problem statements and explanations in the repository to improve learning and documentation.
+
 •	Expand the repository with real-world datasets and business analytics scenarios to enhance practical data analysis skills.
 
