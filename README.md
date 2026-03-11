@@ -1,61 +1,69 @@
 HackerRank SQL Challenges + DataLemur SQL Problems
 # SQL Interview Preparation – HackerRank & DataLemur
 
-##  Platforms Covered
-- HackerRank SQL
-- DataLemur SQL Interview Questions
+Project Overview
+This repository contains my SQL solutions to problems from multiple competitive and interview-focused platforms. The purpose of this repository is to demonstrate strong SQL fundamentals, analytical thinking, and hands-on query-writing practice across real-world business scenarios.
 
-## Topics Included
-- SELECT & WHERE
-- Aggregations
-- Joins
-- Subqueries
-- Window Functions
-- Case Statements
-- Date & Time Functions
-- Ranking & Analytics
+All queries are written with a focus on clarity, correctness, and performance, making them suitable for technical interviews and practical data analysis work.
 
-##  Repository Structure
+Platforms Covered
+The problems are sourced from the following industry-recognized platforms:
 
-# HackerRank SQL Solutions
+HackerRank – Core SQL fundamentals and logic building
+LeetCode – Interview-level SQL problems with real-world scenarios
+DataLemur – Advanced, business-focused SQL case questions
+Objective
+The key objectives of this repository are to:
 
-This folder contains SQL solutions categorized by:
-- Basic Select
-- Advanced Select
-- Aggregation
-- Joins
-- Subqueries
-- Window Functions
+Strengthen SQL query-writing skills
+Practice real-world analytical SQL problems
+Prepare for data analyst and business analyst interviews
+Build confidence in solving complex data problems
+Topics Covered
+This repository includes SQL problems across multiple difficulty levels and concepts:
 
-All problems are solved as per HackerRank constraints.
-# DataLemur SQL Interview Questions
+SELECT, WHERE, ORDER BY
+GROUP BY and HAVING
+JOINS (INNER, LEFT, RIGHT)
+Subqueries and CTEs
+Window Functions (ROW_NUMBER, RANK, LAG, LEAD)
+Aggregations and conditional logic
+Date and time functions
+Interview-style business problems
+Problem-Solving Approach
+Each solution follows a structured and professional approach:
 
-This folder includes SQL interview questions from DataLemur,
-categorized by difficulty:
-- Easy
-- Medium
-- Hard
+Carefully understand the business question
+Identify required tables, joins, and filters
+Apply aggregations or window functions when needed
+Write clean, readable, and optimized SQL
+Validate results with edge cases in mind
+The emphasis is on business logic clarity, not just query execution.
 
-Solutions are optimized and interview-ready.
+Repository Structure
+SQL files are organized by platform and difficulty level
+Each file contains multiple solved problems
+Queries are written in a clean and readable format
+Suitable for revision and interview preparation
+Skills Demonstrated
+SQL Query Writing
+Data Analysis & Interpretation
+Logical Thinking
+Problem Decomposition
+Interview Readiness
+How This Repository Adds Value
+This repository shows:
 
-Each folder is organized by **difficulty and topic**.
+Consistent SQL practice across platforms
+Ability to solve beginner to advanced SQL problems
+Strong understanding of analytical SQL concepts
+Readiness for real-world data analyst roles
+It complements my data analysis and business analytics profile by showcasing hands-on technical depth.
 
-## SQL Dialects Used
-- MySQL
-- PostgreSQL
-
-##  Purpose
-- Practice SQL interview questions
-- Strengthen data analytics fundamentals
-- Build a public SQL portfolio
-
-## Author
-**Sahil Lanjewar**  
-Aspiring Data Analyst  
-
-LinkedIn: https://www.linkedin.com/in/sahil-lanjewar-37a611258?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
----
-
- If you find this repository useful, feel free to star it!
-
+Future Enhancements
+Add problem statements as comments
+Include query optimization notes
+Add result explanations for complex problems
+Expand into advanced analytics case studies
+Conclusion
+This repository reflects my disciplined approach to learning SQL through continuous practice. It demonstrates my ability to translate business questions into accurate and efficient SQL queries, a critical skill for data-driven roles.
